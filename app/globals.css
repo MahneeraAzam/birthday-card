@@ -5,7 +5,7 @@
     font-family: var(--font-quicksand), sans-serif;
     /* Yahan frozen-bg.png set kar diya hai */
     background: linear-gradient(rgba(3, 13, 34, 0.7), rgba(7, 25, 50, 0.82)), 
-                url('/images/frozen-bg.png') no-repeat center center fixed;
+   url('/images/frozen-bg.jpg') no-repeat center center fixed;
     background-size: cover;
     min-height: 100vh;
     color: white;
