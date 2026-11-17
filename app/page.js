@@ -48,7 +48,7 @@ export default function FrozenBirthdayPage() {
   const [elsaPopup, setElsaPopup] = useState(false);
   const [candlesBlown, setCandlesBlown] = useState(false);
   const [selectedPhoto, setSelectedPhoto] = useState(null);
-  const [elsaImgSrc, setElsaImgSrc] = useState("/images/elsa.png");
+  const [elsaImgSrc, setElsaImgSrc] = useState("/images/frozen-bg.jpg");
 
   useEffect(() => {
     const flakes = Array.from({ length: 50 }).map((_, i) => ({
